@@ -2,7 +2,7 @@ import cv2
 from ultralytics import YOLO
 
 
-model = YOLO(r"C:\Users\Aleena Ajith\OneDrive\Desktop\YOLO\Video\best (1).pt")
+model = YOLO(r"C:\Users\Aleena Ajith\OneDrive\Desktop\YOLO\Video\best.pt")
 
 
 cap = cv2.VideoCapture(r"C:\Users\Aleena Ajith\OneDrive\Desktop\YOLO\Object_detection_using_YOLO\video_detection\cityy.mp4")
