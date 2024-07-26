@@ -1,5 +1,9 @@
 # Object_detection_using_YOLO
 
+### Image_Ddetection:
+
+image detection system leverages the powerful YOLO (You Only Look Once) algorithm, a state-of-the-art deep learning model renowned for its speed and accuracy in real-time object detection. YOLO’s architecture enables the detection of multiple objects within a single frame
+
 ### Video_Detection:
 "𝐅𝐢𝐧𝐞-𝐓𝐮𝐧𝐞𝐝 𝐘𝐎𝐋𝐎 𝐌𝐨𝐝𝐞𝐥 𝐟𝐨𝐫 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐀𝐞𝐫𝐢𝐚𝐥 𝐅𝐨𝐨𝐭𝐚𝐠𝐞 𝐎𝐛𝐣𝐞𝐜𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧"
 
